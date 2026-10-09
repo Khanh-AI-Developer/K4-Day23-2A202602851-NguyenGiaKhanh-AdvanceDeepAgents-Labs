@@ -1,0 +1,27 @@
+{
+  "model": "Khanh-GPT",
+  "elapsed_s": 464.8,
+  "subagent_calls": 5,
+  "tool_calls": {
+    "write_todos": 6,
+    "task": 5,
+    "ls": 2,
+    "read_file": 8,
+    "write_file": 2,
+    "execute": 4,
+    "edit_file": 2,
+    "grep": 1
+  },
+  "tokens": {
+    "input": 495276,
+    "output": 8101
+  },
+  "topic": "survey about efficient inference and small language models",
+  "n_sources": 28,
+  "source_families": [
+    "arxiv",
+    "hf-daily",
+    "hf-search",
+    "web"
+  ]
+}

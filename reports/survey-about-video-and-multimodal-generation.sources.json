@@ -1,0 +1,266 @@
+[
+  {
+    "n": 1,
+    "id": "1804.08264",
+    "url": "https://arxiv.org/abs/1804.08264",
+    "title": "To Create What You Tell: Generating Videos from Captions",
+    "date": "2018-04-23",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2210.02396",
+    "url": "https://arxiv.org/abs/2210.02396",
+    "title": "Temporally Consistent Transformers for Video Generation",
+    "date": "2022-10-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2211.13221",
+    "url": "https://arxiv.org/abs/2211.13221",
+    "title": "Latent Video Diffusion Models for High-Fidelity Long Video Generation",
+    "date": "2022-11-23",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2304.08818",
+    "url": "https://arxiv.org/abs/2304.08818",
+    "title": "Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models",
+    "date": "2023-04-18",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2211.14575",
+    "url": "https://arxiv.org/abs/2211.14575",
+    "title": "Efficient Video Prediction via Sparsely Conditioned Flow Matching",
+    "date": "2022-11-26",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2412.15191",
+    "url": "https://arxiv.org/abs/2412.15191",
+    "title": "AV-Link: Temporally-Aligned Diffusion Features for Cross-Modal Audio-Video Generation",
+    "date": "2025-03-10",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "2510.01284",
+    "url": "https://arxiv.org/abs/2510.01284",
+    "title": "Ovi: Twin backbone cross-modal fusion for audio-video generation",
+    "date": "2025-09-30",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "2506.08003",
+    "url": "https://arxiv.org/abs/2506.08003",
+    "title": "Audio-Sync Video Generation with Multi-Stream Temporal Control",
+    "date": "2025-06-09",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "2507.06119",
+    "url": "https://huggingface.co/papers/2507.06119",
+    "title": "Omni-Video: Democratizing Unified Video Understanding and Generation",
+    "date": "2025-07-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 10,
+    "id": "2312.14125",
+    "url": "https://huggingface.co/papers/2312.14125",
+    "title": "VideoPoet: A Large Language Model for Zero-Shot Video Generation",
+    "date": "2023-12-21",
+    "source": "hf-daily"
+  },
+  {
+    "n": 11,
+    "id": "2310.11440v3",
+    "url": "https://arxiv.org/abs/2310.11440v3",
+    "title": "EvalCrafter: Benchmarking and Evaluating Large Video Generation Models",
+    "date": "2024-03-23",
+    "source": "web"
+  },
+  {
+    "n": 12,
+    "id": "VBench-CVPR2024",
+    "url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_VBench_Comprehensive_Benchmark_Suite_for_Video_Generative_Models_CVPR_2024_paper.pdf",
+    "title": "VBench: Comprehensive Benchmark Suite for Video Generative Models",
+    "date": "2024-06-17",
+    "source": "web"
+  },
+  {
+    "n": 13,
+    "id": "T2V-CompBench-CVPR2025",
+    "url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Sun_T2V-CompBench_A_Comprehensive_Benchmark_for_Compositional_Text-to-video_Generation_CVPR_2025_paper.pdf",
+    "title": "T2V-CompBench: A Comprehensive Benchmark for Compositional Text-to-video Generation",
+    "date": "2025-06-17",
+    "source": "web"
+  },
+  {
+    "n": 14,
+    "id": "TC-Bench-ACL2025",
+    "url": "https://aclanthology.org/2025.findings-acl.241.pdf",
+    "title": "TC-Bench: Benchmarking Temporal Compositionality in Conditional Video Generation",
+    "date": "2025-03-27",
+    "source": "web"
+  },
+  {
+    "n": 15,
+    "id": "2406.03520",
+    "url": "https://arxiv.org/abs/2406.03520",
+    "title": "Evaluating Physical Commonsense for Video Generation",
+    "date": "2024-06-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 16,
+    "id": "2501.09038",
+    "url": "https://arxiv.org/abs/2501.09038",
+    "title": "Do Generative Video Models Understand Physical Principles?",
+    "date": "2025-02-27",
+    "source": "arxiv"
+  },
+  {
+    "n": 17,
+    "id": "2410.19884v2",
+    "url": "https://arxiv.org/abs/2410.19884v2",
+    "title": "A Survey of AI-Generated Video Evaluation",
+    "date": "2024-10-25",
+    "source": "web"
+  },
+  {
+    "n": 18,
+    "id": "2512.21094",
+    "url": "https://arxiv.org/abs/2512.21094",
+    "title": "T2AV-Compass: Towards Unified Evaluation for Text-to-Audio-Video Generation",
+    "date": "2025-12-26",
+    "source": "arxiv"
+  },
+  {
+    "n": 19,
+    "id": "2410.13720",
+    "url": "https://huggingface.co/papers/2410.13720",
+    "title": "Movie Gen: A Cast of Media Foundation Models",
+    "date": "2024-10-17",
+    "source": "hf-search"
+  },
+  {
+    "n": 20,
+    "id": "NIST.AI.600-1",
+    "url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+    "title": "Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 21,
+    "id": "Veo-3-Tech-Report",
+    "url": "https://storage.googleapis.com/deepmind-media/veo/Veo-3-Tech-Report.pdf",
+    "title": "Veo: a text-to-video generation system",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 22,
+    "id": "Sora-2-System-Card",
+    "url": "https://cdn.openai.com/pdf/50d5973c-c4ff-4c2d-986f-c72b5d0ff069/sora_2_system_card.pdf",
+    "title": "Sora 2 System Card",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 23,
+    "id": "Carbon Trust-DIMPACT-video",
+    "url": "https://www.carbontrust.com/sites/default/files/documents/resource/public/The%20carbon%20impact%20of%20AI%20video%20generation_The%20Carbon%20Trust%20and%20DIMPACT.pdf",
+    "title": "The carbon impact of AI video generation",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 24,
+    "id": "USCO-AI-Training-2025",
+    "url": "https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf",
+    "title": "Part 3: Generative AI Training pre-publication version",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 25,
+    "id": "2403.14773",
+    "url": "https://huggingface.co/papers/2403.14773",
+    "title": "StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text",
+    "date": "2024-03-21",
+    "source": "hf-search"
+  },
+  {
+    "n": 26,
+    "id": "2302.01329",
+    "url": "https://arxiv.org/abs/2302.01329",
+    "title": "Dreamix: Video Diffusion Models are General Video Editors",
+    "date": "2023-02-02",
+    "source": "arxiv"
+  },
+  {
+    "n": 27,
+    "id": "2208.12242",
+    "url": "https://arxiv.org/abs/2208.12242",
+    "title": "DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation",
+    "date": "2023-03-15",
+    "source": "arxiv"
+  },
+  {
+    "n": 28,
+    "id": "2410.12822",
+    "url": "https://arxiv.org/abs/2410.12822",
+    "title": "Adapting Video Diffusion Models to World Models",
+    "date": "2024-11-24",
+    "source": "arxiv"
+  },
+  {
+    "n": 29,
+    "id": "2511.00062",
+    "url": "https://huggingface.co/papers/2511.00062",
+    "title": "World Simulation with Video Foundation Models for Physical AI",
+    "date": "2025-10-28",
+    "source": "hf-daily"
+  },
+  {
+    "n": 30,
+    "id": "2111.10337v2",
+    "url": "https://arxiv.org/abs/2111.10337v2",
+    "title": "Advancing High-Resolution Video-Language Representation with Large-Scale Video Transcriptions",
+    "date": "2021-11-22",
+    "source": "arxiv"
+  },
+  {
+    "n": 31,
+    "id": "2405.10674v1",
+    "url": "https://arxiv.org/abs/2405.10674v1",
+    "title": "From Sora What We Can See: A Survey of Text-to-Video Generation",
+    "date": "2024-05-17",
+    "source": "arxiv"
+  },
+  {
+    "n": 32,
+    "id": "2211.11018",
+    "url": "https://arxiv.org/abs/2211.11018",
+    "title": "MagicVideo: Efficient Video Generation With Latent Diffusion Models",
+    "date": "2023-05-11",
+    "source": "arxiv"
+  },
+  {
+    "n": 33,
+    "id": "2503.18942",
+    "url": "https://huggingface.co/papers/2503.18942",
+    "title": "Video-T1: Test-Time Scaling for Video Generation",
+    "date": "2025-03-24",
+    "source": "hf-search"
+  }
+]

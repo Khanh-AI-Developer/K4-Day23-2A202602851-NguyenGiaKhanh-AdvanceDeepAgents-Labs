@@ -1,0 +1,28 @@
+{
+  "model": "Khanh-GPT",
+  "elapsed_s": 419.5,
+  "subagent_calls": 5,
+  "tool_calls": {
+    "write_todos": 7,
+    "task": 5,
+    "ls": 1,
+    "read_file": 6,
+    "glob": 1,
+    "write_file": 2,
+    "execute": 3,
+    "edit_file": 2,
+    "grep": 1
+  },
+  "tokens": {
+    "input": 325875,
+    "output": 7744
+  },
+  "topic": "survey about LLM agents and tool use",
+  "n_sources": 18,
+  "source_families": [
+    "arxiv",
+    "hf-daily",
+    "hf-search",
+    "web"
+  ]
+}

@@ -1,0 +1,226 @@
+[
+  {
+    "n": 1,
+    "id": "2402.14905",
+    "url": "https://arxiv.org/abs/2402.14905",
+    "title": "MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases",
+    "date": "2024-02-22",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2401.02385",
+    "url": "https://arxiv.org/abs/2401.02385",
+    "title": "TinyLlama: An Open-Source Small Language Model",
+    "date": "2024-06-04",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2309.05463",
+    "url": "https://arxiv.org/abs/2309.05463",
+    "title": "Textbooks Are All You Need II: phi-1.5 technical report",
+    "date": "2023-09-11",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2404.14219",
+    "url": "https://arxiv.org/abs/2404.14219",
+    "title": "Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone",
+    "date": "2024-04-22",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2211.10438",
+    "url": "https://arxiv.org/abs/2211.10438",
+    "title": "SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models",
+    "date": "2022-11-18",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2309.06180",
+    "url": "https://arxiv.org/abs/2309.06180",
+    "title": "Efficient Memory Management for Large Language Model Serving with PagedAttention",
+    "date": "2023-09-12",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "2205.14135",
+    "url": "https://arxiv.org/abs/2205.14135",
+    "title": "FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness",
+    "date": "2022-06-23",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "2308.16369",
+    "url": "https://arxiv.org/abs/2308.16369",
+    "title": "Sarathi: Efficient LLM Inference by Piggybacking Decodes with Chunked Prefills",
+    "date": "2023-08-31",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "2407.07000",
+    "url": "https://huggingface.co/papers/2407.07000",
+    "title": "Etalon: Holistic Performance Evaluation Framework for LLM Inference Systems",
+    "date": "2024-07-09",
+    "source": "hf-search"
+  },
+  {
+    "n": 10,
+    "id": "web-mlperf",
+    "url": "https://docs.mlcommons.org/inference/",
+    "title": "MLPerf Inference Benchmarks",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 11,
+    "id": "web-nim-metrics",
+    "url": "https://docs.nvidia.com/nim/benchmarking/llm/latest/metrics.html",
+    "title": "Metrics — NVIDIA NIM LLMs Benchmarking",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 12,
+    "id": "2505.06371",
+    "url": "https://huggingface.co/papers/2505.06371",
+    "title": "The ML.ENERGY Benchmark: Toward Automated Inference Energy Measurement and Optimization",
+    "date": "2025-05-09",
+    "source": "hf-search"
+  },
+  {
+    "n": 13,
+    "id": "2409.15790",
+    "url": "https://huggingface.co/papers/2409.15790",
+    "title": "Small Language Models: Survey, Measurements, and Insights",
+    "date": "2024-09-24",
+    "source": "hf-search"
+  },
+  {
+    "n": 14,
+    "id": "2305.13245",
+    "url": "https://huggingface.co/papers/2305.13245",
+    "title": "GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints",
+    "date": "2023-05-22",
+    "source": "hf-search"
+  },
+  {
+    "n": 15,
+    "id": "2305.02301",
+    "url": "https://arxiv.org/abs/2305.02301",
+    "title": "Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes",
+    "date": "2023-07-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 16,
+    "id": "2306.08543",
+    "url": "https://arxiv.org/abs/2306.08543",
+    "title": "MiniLLM: On-Policy Distillation of Large Language Models",
+    "date": "2023-06-14",
+    "source": "arxiv"
+  },
+  {
+    "n": 17,
+    "id": "2402.02750",
+    "url": "https://arxiv.org/abs/2402.02750",
+    "title": "KIVI: A Tuning-Free Asymmetric 2bit Quantization for KV Cache",
+    "date": "2024-02-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 18,
+    "id": "2306.14048",
+    "url": "https://arxiv.org/abs/2306.14048",
+    "title": "H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models",
+    "date": "2023-12-18",
+    "source": "arxiv"
+  },
+  {
+    "n": 19,
+    "id": "2309.17453",
+    "url": "https://arxiv.org/abs/2309.17453",
+    "title": "Efficient Streaming Language Models with Attention Sinks",
+    "date": "2023-09-29",
+    "source": "arxiv"
+  },
+  {
+    "n": 20,
+    "id": "2307.08691",
+    "url": "https://arxiv.org/abs/2307.08691",
+    "title": "FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning",
+    "date": "2023-07-17",
+    "source": "arxiv"
+  },
+  {
+    "n": 21,
+    "id": "web-vllm",
+    "url": "https://docs.vllm.ai/",
+    "title": "vLLM Documentation",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 22,
+    "id": "web-trt",
+    "url": "https://docs.nvidia.com/tensorrt-llm/index.html",
+    "title": "NVIDIA TensorRT-LLM Documentation",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 23,
+    "id": "2211.17192",
+    "url": "https://arxiv.org/abs/2211.17192",
+    "title": "Fast Inference from Transformers via Speculative Decoding",
+    "date": "2023-05-18",
+    "source": "arxiv"
+  },
+  {
+    "n": 24,
+    "id": "2402.01528",
+    "url": "https://arxiv.org/abs/2402.01528",
+    "title": "Decoding Speculative Decoding",
+    "date": "2024-02-02",
+    "source": "arxiv"
+  },
+  {
+    "n": 25,
+    "id": "2310.05736",
+    "url": "https://arxiv.org/abs/2310.05736",
+    "title": "LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models",
+    "date": "2023-12-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 26,
+    "id": "2404.09529",
+    "url": "https://arxiv.org/abs/2404.09529",
+    "title": "Prepacking: A Simple Method for Fast Prefilling and Increased Throughput in Large Language Models",
+    "date": "2024-04-15",
+    "source": "arxiv"
+  },
+  {
+    "n": 27,
+    "id": "2502.15589",
+    "url": "https://huggingface.co/papers/2502.15589",
+    "title": "LightThinker: Thinking Step-by-Step Compression",
+    "date": "2025-02-21",
+    "source": "hf-daily"
+  },
+  {
+    "n": 28,
+    "id": "2502.15007",
+    "url": "https://huggingface.co/papers/2502.15007",
+    "title": "LLM-Microscope: Uncovering the Hidden Role of Punctuation in Context Memory of Transformers",
+    "date": "2025-02-20",
+    "source": "hf-daily"
+  }
+]

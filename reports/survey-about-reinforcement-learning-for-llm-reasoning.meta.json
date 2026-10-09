@@ -1,0 +1,28 @@
+{
+  "model": "Khanh-GPT",
+  "elapsed_s": 510.8,
+  "subagent_calls": 5,
+  "tool_calls": {
+    "write_todos": 8,
+    "task": 5,
+    "ls": 2,
+    "read_file": 6,
+    "write_file": 2,
+    "glob": 1,
+    "execute": 2,
+    "grep": 1,
+    "edit_file": 1
+  },
+  "tokens": {
+    "input": 462253,
+    "output": 10375
+  },
+  "topic": "survey about reinforcement learning for LLM reasoning",
+  "n_sources": 28,
+  "source_families": [
+    "arxiv",
+    "hf-daily",
+    "hf-search",
+    "web"
+  ]
+}

@@ -1,0 +1,226 @@
+[
+  {
+    "n": 1,
+    "id": "2203.02155",
+    "url": "https://arxiv.org/abs/2203.02155",
+    "title": "Training language models to follow instructions with human feedback",
+    "date": "2022-03-04",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2212.08073",
+    "url": "https://arxiv.org/abs/2212.08073",
+    "title": "Constitutional AI: Harmlessness from AI Feedback",
+    "date": "2022-12-15",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2305.18290",
+    "url": "https://arxiv.org/abs/2305.18290",
+    "title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model",
+    "date": "2023-05-29",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2305.20050",
+    "url": "https://arxiv.org/abs/2305.20050",
+    "title": "Let's Verify Step by Step",
+    "date": "2023-05-31",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2308.08998",
+    "url": "https://arxiv.org/abs/2308.08998",
+    "title": "Reinforced Self-Training (ReST) for Language Modeling",
+    "date": "2023-08-21",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2309.06657",
+    "url": "https://arxiv.org/abs/2309.06657",
+    "title": "Statistical Rejection Sampling Optimization",
+    "date": "2024-01-23",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "2309.00267",
+    "url": "https://arxiv.org/abs/2309.00267",
+    "title": "RLAIF vs. RLHF: Scaling Reinforcement Learning from Human Feedback with AI Feedback",
+    "date": "2024-09-03",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "2402.03300",
+    "url": "https://arxiv.org/abs/2402.03300",
+    "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+    "date": "2024-02-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "2410.08146",
+    "url": "https://arxiv.org/abs/2410.08146",
+    "title": "Rewarding Progress: Scaling Automated Process Verifiers for LLM Reasoning",
+    "date": "2024-10-10",
+    "source": "arxiv"
+  },
+  {
+    "n": 10,
+    "id": "2501.12948",
+    "url": "https://arxiv.org/abs/2501.12948",
+    "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+    "date": "2025-01-22",
+    "source": "arxiv"
+  },
+  {
+    "n": 11,
+    "id": "2107.03374",
+    "url": "https://arxiv.org/abs/2107.03374",
+    "title": "Evaluating Large Language Models Trained on Code",
+    "date": "2021-07-07",
+    "source": "arxiv"
+  },
+  {
+    "n": 12,
+    "id": "2210.10760",
+    "url": "https://arxiv.org/abs/2210.10760",
+    "title": "Scaling Laws for Reward Model Overoptimization",
+    "date": "2022-10-19",
+    "source": "arxiv"
+  },
+  {
+    "n": 13,
+    "id": "2403.07974",
+    "url": "https://arxiv.org/abs/2403.07974",
+    "title": "LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code",
+    "date": "2024-03-12",
+    "source": "arxiv"
+  },
+  {
+    "n": 14,
+    "id": "2406.06461",
+    "url": "https://arxiv.org/abs/2406.06461",
+    "title": "Reasoning in Token Economies: Budget-Aware Evaluation of LLM Reasoning Strategies",
+    "date": "2024-06-10",
+    "source": "arxiv"
+  },
+  {
+    "n": 15,
+    "id": "2407.01085",
+    "url": "https://arxiv.org/abs/2407.01085",
+    "title": "Explaining Length Bias in LLM-Based Preference Evaluations",
+    "date": "2024-07-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 16,
+    "id": "2408.13006",
+    "url": "https://arxiv.org/abs/2408.13006",
+    "title": "Systematic Evaluation of LLM-as-a-Judge in LLM Alignment Tasks",
+    "date": "2024-08-23",
+    "source": "arxiv"
+  },
+  {
+    "n": 17,
+    "id": "2505.05410",
+    "url": "https://arxiv.org/abs/2505.05410",
+    "title": "Reasoning Models Don't Always Say What They Think",
+    "date": "2025-05-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 18,
+    "id": "2506.04178",
+    "url": "https://arxiv.org/abs/2506.04178",
+    "title": "OpenThoughts: Data Recipes for Reasoning Models",
+    "date": "2025-06-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 19,
+    "id": "openai-o1-announcement",
+    "url": "https://openai.com/index/learning-to-reason-with-llms/",
+    "title": "Learning to reason with LLMs",
+    "date": "2024-09-12",
+    "source": "web"
+  },
+  {
+    "n": 20,
+    "id": "openai-o1-card",
+    "url": "https://openai.com/index/openai-o1-system-card/",
+    "title": "OpenAI o1 System Card",
+    "date": "2024-12-05",
+    "source": "web"
+  },
+  {
+    "n": 21,
+    "id": "qwen-qwq-32b",
+    "url": "https://qwenlm.github.io/blog/qwq-32b/",
+    "title": "QwQ-32B: Embracing the Power of Reinforcement Learning",
+    "date": "2025-03-06",
+    "source": "web"
+  },
+  {
+    "n": 22,
+    "id": "tulu3-technical",
+    "url": "https://allenai.org/blog/tulu-3-technical",
+    "title": "Tülu 3: The next era in open post-training",
+    "date": "2024-11-21",
+    "source": "web"
+  },
+  {
+    "n": 23,
+    "id": "tulu3-405b",
+    "url": "https://allenai.org/blog/tulu-3-405b",
+    "title": "Scaling the Tülu 3 post-training recipes",
+    "date": "2025-01-30",
+    "source": "web"
+  },
+  {
+    "n": 24,
+    "id": "2501.11223",
+    "url": "https://huggingface.co/papers/2501.11223",
+    "title": "Reasoning Language Models: A Blueprint",
+    "date": "2025-01-20",
+    "source": "hf-daily"
+  },
+  {
+    "n": 25,
+    "id": "2502.01456",
+    "url": "https://huggingface.co/papers/2502.01456",
+    "title": "Process Reinforcement through Implicit Rewards",
+    "date": "2025-02-03",
+    "source": "hf-search"
+  },
+  {
+    "n": 26,
+    "id": "2504.15275",
+    "url": "https://huggingface.co/papers/2504.15275",
+    "title": "Stop Summation: Min-Form Credit Assignment Is All Process Reward Model Needs for Reasoning",
+    "date": "2025-04-21",
+    "source": "hf-search"
+  },
+  {
+    "n": 27,
+    "id": "2311.09724",
+    "url": "https://huggingface.co/papers/2311.09724",
+    "title": "Outcome-supervised Verifiers for Planning in Mathematical Reasoning",
+    "date": "2023-11-16",
+    "source": "hf-search"
+  },
+  {
+    "n": 28,
+    "id": "2505.14652",
+    "url": "https://huggingface.co/papers/2505.14652",
+    "title": "General-Reasoner: Advancing LLM Reasoning Across All Domains",
+    "date": "2025-05-20",
+    "source": "hf-search"
+  }
+]
